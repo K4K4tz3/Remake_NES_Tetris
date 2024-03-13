@@ -17,3 +17,4 @@ My goal is to recreate the full game with all features including:
 If you found this by any chance, you can use this repository in any way you want. If you just want to look the the code I dont mind. The only thing I want is that you please tell me if you directly use my code and for what reason, if it for your assignment that you didnt have time to create or for lecturing purposes or as an example.
 I dont mind for what you use it, I just like to know what the reason is, e.g. when its a lecturing youtube video I would love to see it myself, thats the only reason. You can even use the entire code base.
   
+If your interested, this is where I did most of my planning: https://link.excalidraw.com/readonly/Gz9QC6Cmn94MSuyZ0p3G
