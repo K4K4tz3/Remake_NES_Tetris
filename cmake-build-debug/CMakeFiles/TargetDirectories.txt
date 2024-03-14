@@ -1,0 +1,3 @@
+D:/Programming/Projects/Remake_NES_Tetris/cmake-build-debug/CMakeFiles/Remake_NES_Tetris.dir
+D:/Programming/Projects/Remake_NES_Tetris/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programming/Projects/Remake_NES_Tetris/cmake-build-debug/CMakeFiles/rebuild_cache.dir

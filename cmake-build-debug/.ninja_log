@@ -1,0 +1,7 @@
+# ninja log v5
+0	589	7321372506775470	CMakeFiles/Remake_NES_Tetris.dir/main.cpp.obj	99653954771b0b3b
+591	723	7321372508085760	Remake_NES_Tetris.exe	90b8627312af5b1
+1	154	7321373795239553	build.ninja	e24597a6a921b05d
+1	522	7321373801126075	CMakeFiles/Remake_NES_Tetris.dir/Program.cpp.obj	2dceb023bb4db2ff
+3	529	7321374157224208	CMakeFiles/Remake_NES_Tetris.dir/Program.cpp.obj	2dceb023bb4db2ff
+530	629	7321374158184418	Remake_NES_Tetris.exe	27e802b14c4e61ed
