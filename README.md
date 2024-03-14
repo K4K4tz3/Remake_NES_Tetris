@@ -2,7 +2,7 @@
 Basically I want to improve my c++ skills, that is why I am going to recreate NES Tetris. I would love to do that with OpenGL, but I am unsure if I could do that yet, which is why I am going to use raylib for this project.
 
 # Rules
-1. I am not allowed to use any libraries except the raylibs, c++ standard libraries which I can include without the need to install something (e.g. &lt;vector&gt; or &lt;random&gt;) and selfmade libraries (which I dont have yet)
+1. I am not allowed to use any libraries except the raylibs or opengl/sdl mixer (not quite sure what im going to use) , c++ standard libraries which I can include without the need to install something (e.g. &lt;vector&gt; or &lt;random&gt;) and selfmade libraries (which I dont have yet)
 2. All features implemented must work exactly like in the original NES Tetris Version
 3. Obviously, but I wont use any tutorials the entire code and the structure of the code will be planned by myself. The only thing is that I can use documentations to read how certain functions/classes and whatever work
 
